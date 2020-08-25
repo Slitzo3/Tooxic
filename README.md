@@ -2,7 +2,7 @@
 
 ## I'm a student.
 - Studying at NTI in Sweden.
-- I’m currently learning JavaScript | TypeScript | Node.JS
+- I’m currently learning JavaScript | TypeScript | Node.JS | PHP
 - Age 17
 - *03/06/17*
 
@@ -38,6 +38,6 @@
 
 [twitter]: https://twitter.com/tooxictw
 [youtube]: https://www.youtube.com/channel/
-[instagram]: https://instagram.com/albinhakanson
+[instagram]: https://instagram.com/albin_hakanson
 [steam]: https://steamcommunity.com/id/taztgaming
 [discord]: https://discord.gg/
