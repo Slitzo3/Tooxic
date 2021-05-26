@@ -35,6 +35,7 @@
 ---
 
 <img align="left" alt="Tooxic Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tooxic&show_icons=true&hide_border=true&theme=synthwave" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tooxic&layout=compact&theme=synthwave" />
 
 [twitter]: https://twitter.com/tooxictw
 [youtube]: https://www.youtube.com/channel/
