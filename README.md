@@ -3,7 +3,7 @@
 ## I'm a student.
 - Studying at NTI in Sweden.
 - I’m currently learning JavaScript | TypeScript | Node.JS | PHP
-- Age 17
+- Age 18
 - *03/06/17*
 
 ### Contacts & Social media:
