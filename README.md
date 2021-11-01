@@ -5,6 +5,7 @@
 - I’m currently learning JavaScript | TypeScript | Node.JS | PHP
 - Age 18
 - *03/06/17*
+- Owner of https://sweplox.se
 
 ### Contacts & Social media:
 
