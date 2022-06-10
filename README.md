@@ -1,7 +1,6 @@
 ### Tooxic's readME | Info
 
-## I'm a student.
-- Studying at NTI in Sweden.
+## I'm working for [Rutin IT](https://rutin.se/).
 - I’m currently learning JavaScript | TypeScript | Node.JS | PHP
 - Age 18
 - *03/06/17*
