@@ -4,7 +4,7 @@
 - I’m currently learning JavaScript | TypeScript | Node.JS | PHP
 - Age 19
 - *03/06/17*
-- Owner of https://sweplox.se
+- I write about IT: https://albinhakanson.se
 
 ### Contacts & Social media:
 
