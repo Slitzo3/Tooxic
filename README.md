@@ -2,7 +2,7 @@
 
 ## I'm working for [Rutin IT](https://rutin.se/).
 - I’m currently learning JavaScript | TypeScript | Node.JS | PHP
-- Age 19
+- Age 22
 - *2003-06-17*
 - I write about IT: https://albinhakanson.se
 
